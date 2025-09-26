@@ -4,3 +4,4 @@ nginx-1.20.2文件夹是前端打包好的项目文件夹，要放在没有中�
 sky-common文件夹是项目中多个模块共享的公共代码和资源
 sky-pojo文件夹是一些dto，vo
 sky-server文件夹是业务代码
+sky_take_out.sql是数据库中相关的所有表
